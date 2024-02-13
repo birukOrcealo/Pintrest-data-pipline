@@ -1,4 +1,14 @@
 ![Designer (1)](https://github.com/birukOrcealo/Pintrest-data-pipline/assets/118835094/cddda3d9-fe52-43bc-b0bd-dd1f5ccedcfd)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=black&labelColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/amazons3-%23569A31?style=flat&logo=amazons3&logoColor=black&labelColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/apachekafka-%23231F20?style=flat&logo=apachekafka&logoColor=black&labelColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/amazonec2-%23FF9900?style=flat&logo=amazonec2&logoColor=black&labelColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/databricks-%23FF3621?style=flat&logo=databricks&logoColor=black&labelColor=white&color=red)
+![Static Badge](https://img.shields.io/badge/amazonapigateway-%23FF4F8B?style=flat&logo=amazonapigateway&logoColor=black&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/apachespark-%23E25A1C?style=flat&logo=apachespark&logoColor=black&labelColor=white&color=black)
+
+
+
 
 ## table of contents
 - [Overview](#overview)
